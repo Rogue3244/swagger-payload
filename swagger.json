@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/dreamerRAJ/swagger-payload/main/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/dreamerRAJ/swagger-payload/main/swagger.yaml",
-            "name": "DOM XSS BY RAJNISH"
+            "url": "https://raw.githubusercontent.com/Rogue3244/swagger-payload/main/swagger.yaml",
+            "name": "DOM XSS BY ANMOL"
         }
     ]
 }
